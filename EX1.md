@@ -72,3 +72,6 @@ rename to mystudent;
 
 ### OUTPUT:
 ![image](https://github.com/KothaiKumar/G2_DBMS/assets/121215739/767b16f4-b9e6-44e9-b9e9-9cdb5ca2af03)
+
+### RESULT:
+Thus , a student database is created and DDL queries are executed in SQL.
