@@ -23,8 +23,11 @@ RENAME: This is used to rename an object existing in the database.
 
 ### SQL QUERY: 
 create table student_table(Roll_no numeric(10) , Name varchar(20) , Age numeric(3), Address varchar(20) , Phone_no numeric(10));
+
 Inserting rows 
+
 query : insert into student_table values ( 1, 'Kothai' , 18 , 'Porur' , 9176977202);
+
 ### OUTPUT:
 ![image](https://github.com/KothaiKumar/G2_DBMS/assets/121215739/7b63cb2e-de07-4117-95db-b1524892b19b)
 
